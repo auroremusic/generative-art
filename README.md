@@ -5,7 +5,7 @@ processing/p5.js code. Much more to come later. If you wish to see
 something in particular, please tell me. Enjoy!
 
 ## Processing
-
+For most drawings, I use this key bindings:
 - press `a` to display/hide the parameters window
 - press `e` to exit
 - press `g` to take a new random SEED
