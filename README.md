@@ -14,4 +14,4 @@ processing/p5.js code. Much more to come later. Enjoy!
 
 A rather classic subdivision algorithm based on recursion. You should get drawings of this form
 
-![](sketchbook/processing/subdivision/subdivision-SEED11726419.svg)
+![](sketchbook/processing/subdivision/subdivision-SEED11726419.svg | width=100)
