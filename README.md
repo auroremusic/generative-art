@@ -1,7 +1,8 @@
 # generative-art
 
 Hello there! Here is a freshly new repo with some of my
-processing/p5.js code. Much more to come later. Enjoy!
+processing/p5.js code. Much more to come later. If you wish to see
+something in particular, please tell me. Enjoy!
 
 ## Processing
 
@@ -10,7 +11,7 @@ processing/p5.js code. Much more to come later. Enjoy!
 - press `g` to take a new random SEED
 - press `r` to record the drawing in a `.svg`. Don't forget to press `r` again to stop recording before trying other random SEED
 
-### Subdivision
+1. ### Subdivision
 
 A rather classic subdivision algorithm based on recursion. You should get drawings of this form
 
