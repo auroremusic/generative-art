@@ -16,3 +16,9 @@ For most drawings, I use this key bindings:
 A rather classic subdivision algorithm based on recursion. You should get drawings of this form
 
 ![](sketchbook/processing/subdivision/subdivision-SEED11726419.svg)
+
+### Glitch
+
+Inspired by [tapeglitch](https://www.instagram.com/tapeglitch/), a glitch artist based in NYC. Example:
+
+![](sketchbook/processing/glitch/glitchSeed102.svg)
