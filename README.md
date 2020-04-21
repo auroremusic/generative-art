@@ -13,7 +13,7 @@ For most drawings, I use this key bindings:
 
 ### Squares and field
 
-![](sketchbook/processing/subdivision/squares_and_field/squares_and_field5.svg)
+![](sketchbook/processing/squares_and_field/squares_and_field5.svg)
 
 ### Subdivision
 
