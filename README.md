@@ -1,7 +1,7 @@
 # generative-art
 
 Hello there! Here is a fresh new repo with some of my
-processing/p5.js code. Much more to come later. If you wish to see
+processing/p5.js code from [instagram posts](https://www.instagram.com/entropismes/). Much more to come later. If you wish to see
 something in particular, please tell me. Enjoy!
 
 ## Processing
